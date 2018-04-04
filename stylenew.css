@@ -1,0 +1,20 @@
+/* NAV */
+
+ul {
+	list-style-type: none;
+	float: right;
+	display:flex;
+	flex-direction: row;
+}
+
+
+
+/* GOOGLE */
+#logogoogle
+{
+	color: green;
+}
+/*Barre de recherche */
+/* Boutons */
+/* Footer1 */
+/* Footer2 */
