@@ -90,28 +90,34 @@ footer {
 	padding-left: 20px;
 }
 
-/* Footer2 */
+/* Footer2 et 3 */
 
 #footer2 {
-	background-color: rgb(240,240,240);
-	padding-top: 5px;
+	padding-top: 15px;
 	padding-left: 20px;
+	display: flex;
+	
 }
-
-#PEA {
-	display:flex;
-	padding-right: 500px;
-
-}
-
-#ICCP {
-	display:flex;
-}
-
-#ICCP p {
-
-}
-
 #footer2 p {
-	padding-right: 40px;
+	margin-right: 20px;
+}
+
+
+#footer3 {
+	padding-top: 15px;
+	padding-left: 20px;
+	display: flex;
+	
+}
+#footer3 p {
+	margin-right: 20px;
+}
+
+#footer2etfooter3 {
+	background-color: rgb(240,240,240);
+	display: block;
+	display: flex;
+	justify-content: space-around;
+	justify-content: space-between;
+
 }
